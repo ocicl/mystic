@@ -1,0 +1,10 @@
+* mystic
+
+A modular project skeleton generator
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/roswell/mystic.git   |
+| commit  | 085e903  |
+| systems | mystic |
+|---------+-------------------------------------------|
+
