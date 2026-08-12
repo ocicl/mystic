@@ -8,4 +8,4 @@ A modular project skeleton generator
 | systems | mystic |
 |---------+-------------------------------------------|
 
- 
+  
